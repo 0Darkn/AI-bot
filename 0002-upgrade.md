@@ -276,15 +276,15 @@ Resposta contextual
 
 ## 🧠 O que ESTE projeto já faz
 
-✔ Login gráfico
-✔ Autenticação real
-✔ JWT / API Tokens
-✔ SQLite profissional
-✔ FAISS persistente por utilizador
-✔ Grupos e permissões
-✔ Backend seguro
-✔ Frontend Qt
-✔ Escalável (Docker / cloud / local)
+- ✔ Login gráfico
+- ✔ Autenticação real
+- ✔ JWT / API Tokens
+- ✔ SQLite profissional
+- ✔ FAISS persistente por utilizador
+- ✔ Grupos e permissões
+- ✔ Backend seguro
+- ✔ Frontend Qt
+- ✔ Escalável (Docker / cloud / local)
 
 ---
 
