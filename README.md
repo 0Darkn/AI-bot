@@ -6,12 +6,12 @@
 
 O bot será capaz de:
 
-✅ Entrar no OpenSimulator como avatar
-✅ Andar, virar, deslocar-se
-✅ Saber onde está e que objetos o rodeiam
-✅ Ouvir e responder no chat
-✅ Usar **LLM + RAG local**
-✅ Mostrar **legendas explicativas** (fontes + raciocínio)
+- ✅ Entrar no OpenSimulator como avatar
+- ✅ Andar, virar, deslocar-se
+- ✅ Saber onde está e que objetos o rodeiam
+- ✅ Ouvir e responder no chat
+- ✅ Usar **LLM + RAG local**
+- ✅ Mostrar **legendas explicativas** (fontes + raciocínio)
 
 ---
 
@@ -318,15 +318,15 @@ objetos.md
 
 ---
 
-# 🏁 O QUE TENS AGORA
+# 🏁 TEM AGORA
 
-✅ Bot AI completo
-✅ Movimento real
-✅ Perceção do mundo
-✅ RAG local
-✅ LLM pronto
-✅ Legendas explicativas
-✅ Estrutura profissional
+- ✅ Bot AI completo
+- ✅ Movimento real
+- ✅ Perceção do mundo
+- ✅ RAG local
+- ✅ LLM pronto
+- ✅ Legendas explicativas
+- ✅ Estrutura profissional
 
 ---
 
