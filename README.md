@@ -1,3 +1,4 @@
+[English](https://github.com/0Darkn/AI-bot/blob/main/en-README.md)
 
 **BOT AI COMPLETO PARA OPENSIMULATOR EM PYTHON**
 ---
