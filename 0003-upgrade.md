@@ -1,4 +1,4 @@
-Vou ser direto contigo: fazer um bot 100% Python + render 3D + protocolo OpenSim completo como o Singularity Viewer é possível, mas não é simples — porque o protocolo do OpenSimulator usa UDP binário complexo.
+fazer um bot 100% Python + render 3D + protocolo OpenSim completo como o Singularity Viewer é possível, mas não é simples — porque o protocolo do OpenSimulator usa UDP binário complexo.
 
 👉 MAS… dá para construir uma versão funcional e evolutiva 🔥
 👉 Vamos fazer um cliente 3D em Python + estrutura preparada para bot.
